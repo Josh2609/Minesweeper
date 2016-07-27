@@ -1,0 +1,3 @@
+Dave,28
+No High Score,999
+No High Score,999
